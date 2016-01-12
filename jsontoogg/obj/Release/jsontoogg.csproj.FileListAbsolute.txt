@@ -1,0 +1,8 @@
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Release\jsontoogg.exe.config
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Release\jsontoogg.exe
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Release\jsontoogg.pdb
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Release\Newtonsoft.Json.dll
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Release\Newtonsoft.Json.xml
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\obj\Release\jsontoogg.csprojResolveAssemblyReference.cache
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\obj\Release\jsontoogg.exe
+C:\Users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\obj\Release\jsontoogg.pdb
