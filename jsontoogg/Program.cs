@@ -9,7 +9,7 @@ namespace jsontoogg
 {
     class Program
     {
-        public static readonly char Symbol = '&';
+        public static readonly char Symbol = '%';
         static void Main(string[] args)
         {
             WriteLineColor("Program for converting new minecraft sounds into human-readable ogg files. Made by lukacat10.");

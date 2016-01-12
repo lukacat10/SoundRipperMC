@@ -6,3 +6,6 @@ c:\users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\obj\Deb
 c:\users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\obj\Debug\jsontoogg.pdb
 c:\users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Debug\Newtonsoft.Json.dll
 c:\users\tomaa\documents\visual studio 2015\Projects\jsontoogg\jsontoogg\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tomaa\Documents\Visual Studio 2015\Projects\jsontoogg\SoundRipperMC\jsontoogg\bin\Debug\jsontoogg.exe.config
+C:\Users\tomaa\Documents\Visual Studio 2015\Projects\jsontoogg\SoundRipperMC\jsontoogg\obj\Debug\jsontoogg.exe
+C:\Users\tomaa\Documents\Visual Studio 2015\Projects\jsontoogg\SoundRipperMC\jsontoogg\obj\Debug\jsontoogg.pdb
