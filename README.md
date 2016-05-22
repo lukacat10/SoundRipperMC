@@ -7,4 +7,4 @@ Instructions for using the software itself:
 2. Enter the path to the folder with the hash names. Folder is by default located under .minecraft/assets/objects
 3. Enter the output folder. This can be any folder!
 
-Download instructions are found under the wiki section of this github!
+_Download instructions are found under the wiki section of this github, in the footer section at the bottom of the wiki page!_
